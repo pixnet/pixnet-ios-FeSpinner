@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/pixnet/pixnet-ios-FeSpinner"
   s.license      = { :type => 'MIT', :file => 'LICENSE.txt' }
   s.author       = { "alexchueh" => "shadow@pixnet.tw" }
-  s.source       = { :git => "https://github.com/pixnet/pixnet-ios-FeSpinner", :tag => "1.0.0" }
+  s.source       = { :git => "https://github.com/pixnet/pixnet-ios-FeSpinner.git", :tag => "1.0.0" }
   s.platform     = :ios, "8.0"
 
   s.source_files  =  "**/*.{h,m}"
